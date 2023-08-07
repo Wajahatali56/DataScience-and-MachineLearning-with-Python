@@ -3,8 +3,6 @@
 y = "Wajahat"
 print(x)
 print(y)
-
-
 x = str(5)  # x will be "5"
 y = int(5)  # x will be 5
 z = float(5) # x will be 5.0
@@ -59,7 +57,7 @@ my-var = "wajahat"
 my var = "wajahat" '''
 
 
-
+'''
 def find_max(nums):
     
     max_num = float("-inf")
@@ -69,4 +67,4 @@ def find_max(nums):
 
 print("The greater is"+ num)
 
-return max_num
+return max_num'''
