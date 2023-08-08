@@ -44,7 +44,7 @@ txt = "Great course by sharad khare and i like this course very much"
 if "mucher" not in txt:
   print("No , 'mucher' is not present in string")
 
-
+#__________________BEST OF LUCK ____________________#
 
 
 

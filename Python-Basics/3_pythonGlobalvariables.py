@@ -12,5 +12,7 @@ def name():
 name()
 
 #This will executes global variables value
-print("This is " + x1) 
-    
+print("This is " + x1)
+
+
+    #__________________BEST OF LUCK ____________________#

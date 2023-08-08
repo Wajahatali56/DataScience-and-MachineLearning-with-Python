@@ -13,3 +13,5 @@ print(a[5:])
 # Negative Indexing 
 a = "Hello world!"
 print(a[-7:-1])
+
+#__________________BEST OF LUCK ____________________#

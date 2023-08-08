@@ -1,5 +1,5 @@
 
-'''
+
 # Syntex :
 #             lambda argument : expression
 
@@ -31,5 +31,4 @@ my_triple = my_fun(3)
 print(my_double(11))
 print(my_triple(11))
 
-
-'''
+#__________________BEST OF LUCK ____________________#

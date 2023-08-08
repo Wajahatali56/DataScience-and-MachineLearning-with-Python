@@ -83,3 +83,6 @@ class student(person):
 x = student("WAJAHAT" , "ALI" , "2028")
 print(x.graduateyear)
 
+
+
+#__________________BEST OF LUCK ____________________#
