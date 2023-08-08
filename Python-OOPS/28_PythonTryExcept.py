@@ -4,6 +4,7 @@
 # finally -block let you execute code regardless of the try and except block.
 
 # Example of try block 
+'''
 try:
     print(x)
 except:
@@ -20,7 +21,7 @@ except NameError:
     print("variable of x is not defined")
 except:
     print("something else went wrong")
-
+'''
 # else - you can use else keyword to define a block of code.
 
 try:
@@ -31,14 +32,14 @@ else:
     print("Nothing went wrong")
 
 # Using Finally block 
-
+'''
 try:
     print(X)
 except :
     print("something else went wrong")
 finally:
     print("the 'try' except is finished")
-
+'''
 # Real Example
 
 try:
