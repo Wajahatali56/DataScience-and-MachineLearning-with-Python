@@ -38,3 +38,5 @@ else:
 #  How to delete the existing folder
 import os
 os.rmdir("myfolder")# this commad can remove only empty folder
+
+#__________________BEST OF LUCK ____________________#
