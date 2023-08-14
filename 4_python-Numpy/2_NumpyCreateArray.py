@@ -55,7 +55,7 @@ print(b.ndim)
 print(c.ndim)
 print(d.ndim)
 
-# Craete a array with 5 dimensions  and verify it has 5 dimensions .
+# Craete a array with 5 dimensions  and verify it has 5 dimensions.
 
 import numpy as np
 wajahat = np.array([1,2,3,4,5] , ndmin= 5)
