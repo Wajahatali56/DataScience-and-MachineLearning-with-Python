@@ -15,24 +15,4 @@ print(wajahat)
 print("shape of array is : " , wajahat.shape)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #__________________BEST OF LUCK ____________________#
