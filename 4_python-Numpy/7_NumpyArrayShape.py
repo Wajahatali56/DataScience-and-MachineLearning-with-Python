@@ -14,5 +14,4 @@ wajahat = np.array([1,2,3,4,5] , ndmin= 5)
 print(wajahat)
 print("shape of array is : " , wajahat.shape)
 
-
 #__________________BEST OF LUCK ____________________#
