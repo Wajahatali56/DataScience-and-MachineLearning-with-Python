@@ -22,4 +22,28 @@ wajahat1 = np.array([4,5,6])
 newarray = np.stack((wajahat , wajahat1) , axis= 1)
 print(newarray)
 
-# 
+# Stacking along with rows : hstacks() 
+import numpy as np
+wajahat = np.array([1,2,3])
+wajahat1 = np.array([4,5,6])
+newarray = np.hstack((wajahat , wajahat1))
+print(newarray)
+
+# Stacking along with columns:
+
+import numpy as np
+wajahat = np.array([1,2,3])
+wajahat1 = np.array([4,5,6])
+newarray = np.vstack((wajahat , wajahat1))
+print(newarray)
+
+# Stacking along with height(depth):
+
+import numpy as np
+wajahat = np.array([1,2,3])
+wajahat1 = np.array([4,5,6])
+newarray = np.dstack((wajahat , wajahat1))
+print(newarray)
+
+
+#__________________BEST OF LUCK ____________________#
