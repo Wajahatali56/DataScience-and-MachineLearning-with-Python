@@ -15,3 +15,6 @@ import seaborn as sns
 wajahat =random.zipf(a=2 , size=1000)
 sns.distplot(wajahat [wajahat < 10], kde= False)
 plt.show()
+
+
+#__________________BEST OF LUCK ____________________#
